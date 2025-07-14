@@ -20,6 +20,7 @@ Open Library Search API (https://openlibrary.org/dev/docs/api/search)
 Instrucciones de uso
 
 1-Descarga o clona este repositorio:
+https://github.com/Kingshiba204/Mi-Lista-de-Libros.git
 
 2-Abre la carpeta (Mi Lista de Libros) con Visual Studio Code 
 
